@@ -1,0 +1,5 @@
+version: '2'
+services:
+  sned-mail:
+    image: registry.access.redhat.com/rhel7:latest
+    tty: true
